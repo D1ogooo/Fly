@@ -29,7 +29,18 @@ O Fly é a uma api criada para desenvolvedores Frontend aprenderem sobre fluxo d
        🌍 ---       Rotas de uso        --- 🪐
 ```
 /auth/signin (Fazer login)
+
 {
+ "name":"diogo",
+ "email":"diogo@gmail.com",
+ "password":"88490495"
+}
+```
+```
+/auth/signup (Criar um usuário)
+
+{
+ "image": "link", (OBS: fica opçional colocar uma imagem ou não)
  "name":"diogo",
  "email":"diogo@gmail.com",
  "password":"88490495"
