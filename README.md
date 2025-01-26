@@ -24,7 +24,7 @@ O Fly é a uma api criada para desenvolvedores Frontend aprenderem sobre fluxo d
 ```
  DB_USER=""
  DB_PASSWORD=""
- SECRET_JWT="@J_FJ!#T)NH*#G)N@WEF)CVN)" <--(OBS: pode ser qualquer coisa, no exemplo só coloquei isso para ser algo unico mesmo)
+ SECRET_JWT="@J_FJ!#T)NH*#G)N@WEF)CVN)" <--(OBS: pode ser qualquer coisa)
 ```
        🌍 ---       Rotas de uso        --- 🪐
 ```
