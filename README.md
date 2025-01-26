@@ -27,7 +27,8 @@ O Fly é a uma api criada para desenvolvedores Frontend aprenderem sobre fluxo d
  SECRET_JWT="@J_FJ!#T)NH*#G)N@WEF)CVN)"
 ```
        🌍 ---       Rotas de uso        --- 🪐
-``` /auth/signin (Fazer login)
+```
+/auth/signin (Fazer login)
 {
  "name":"diogo",
  "email":"diogo@gmail.com",
