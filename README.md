@@ -29,9 +29,9 @@ O Fly é a uma api criada para desenvolvedores Frontend aprenderem sobre fluxo d
 /auth/signin (Fazer login)
 
 {
- "name":"diogo",
- "email":"diogo@gmail.com",
- "password":"88490495"
+ "name":"",
+ "email":"",
+ "password":""
 }
 ```
 ```
@@ -39,9 +39,9 @@ O Fly é a uma api criada para desenvolvedores Frontend aprenderem sobre fluxo d
 
 {
  "image": "link", (OBS: fica opçional colocar uma imagem ou não)
- "name":"diogo",
- "email":"diogo@gmail.com",
- "password":"88490495"
+ "name":"",
+ "email":",
+ "password":""
 }
 ```
 *** Acesse sua conta no mongodb e preencha as informações da variavel de ambiente
