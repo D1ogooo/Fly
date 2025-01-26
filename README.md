@@ -2,9 +2,9 @@
 
 📋 Sobre o projeto
 
-O Fly é a uma api criada para desenvolvedores Frontend aprenderem sobre o assunto de fluxo de authenticação.
+O Fly é a uma api criada para desenvolvedores Frontend aprenderem sobre fluxo de authenticação
 
-👨‍💻 (backend) Tecnologias Utilizadas:
+👨‍💻 Tecnologias Utilizadas:
 
 ```
 - JavaScript
@@ -14,15 +14,30 @@ O Fly é a uma api criada para desenvolvedores Frontend aprenderem sobre o assun
 - Mongoose
 ```
 
-       📜 -- Orientações de uso -- 📜
-*** Instale os pacotes necessários no projeto usando alguma package manager como por exemplo
+       📜 --- Orientações de instalação --- 📜
+*** Instale os pacotes necessários no projeto usando algum package manager como por exemplo
 ```
-- npm i
-- pnpm i
+- npm install
+- pnpm install
 ```
-* Acesse sua conta no mongodb e preencha as informações da variavel de ambiente
+*** Acesse sua conta no mongodb e preencha as informações da variavel de ambiente
 ```
  DB_USER="diiogomarsalcosta"
  DB_PASSWORD="Y9Zv0EOCBB0Yp761"
  SECRET_JWT="@J_FJ!#T)NH*#G)N@WEF)CVN)"
 ```
+       🌍 ---       Rotas de uso        --- 🪐
+``` /auth/signin (Fazer login)
+{
+ "name":"diogo",
+ "email":"diogo@gmail.com",
+ "password":"88490495"
+}
+```
+*** Acesse sua conta no mongodb e preencha as informações da variavel de ambiente
+```
+ DB_USER="diiogomarsalcosta"
+ DB_PASSWORD="Y9Zv0EOCBB0Yp761"
+ SECRET_JWT="@J_FJ!#T)NH*#G)N@WEF)CVN)"
+```
+   
