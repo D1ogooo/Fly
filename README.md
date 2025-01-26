@@ -1,11 +1,9 @@
 ✈ Fly
 
 📋 Sobre o projeto
-
 O Fly é a uma api criada para desenvolvedores Frontend aprenderem sobre fluxo de authenticação
 
 👨‍💻 Tecnologias Utilizadas:
-
 ```
 - JavaScript
 - Node
