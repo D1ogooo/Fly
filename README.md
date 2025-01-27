@@ -8,8 +8,8 @@ O Fly é a uma api criada para desenvolvedores Frontend aprenderem sobre fluxo d
 - JavaScript
 - Node
 - Express
-- MongoDB ORM
-- Mongoose
+- MongoDB 
+- Mongoose ORM
 ```
 
        📜 --- Orientações de instalação --- 📜
