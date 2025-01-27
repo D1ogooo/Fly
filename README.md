@@ -38,7 +38,7 @@ O Fly é a uma api criada para desenvolvedores Frontend aprenderem sobre fluxo d
 /auth/signup (Criar um usuário)
 
 {
- "image": "link", (OBS: fica opçional colocar uma imagem ou não)
+ "image": "link", (OBS: já tem uma imagem padrão então fica opçional colocar uma imagem aqui ou não)
  "name":"",
  "email":",
  "password":""
