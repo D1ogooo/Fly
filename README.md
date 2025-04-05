@@ -30,7 +30,6 @@ O Fly é a uma api criada para desenvolvedores Frontend aprenderem sobre fluxo d
 /auth/signin (Fazer login)
 
 {
- "name":"",
  "email":"",
  "password":""
 }
